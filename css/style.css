@@ -94,7 +94,7 @@ img {
 	justify-content: space-between;
 	max-width: 1075px;
 	padding: 0px 0px 0px 172px;
-
+	z-index: 55;
 }
 .header__list {
 	display: flex;
@@ -149,7 +149,7 @@ img {
 }
 @media (max-width:890px) {
 	body.lock{
-/* 		overflow: hidden; */
+		overflow: hidden;
 	}
 	.header__burger {
 		margin: 0px 0px 0px 20px;
