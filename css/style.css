@@ -149,7 +149,7 @@ img {
 }
 @media (max-width:890px) {
 	body.lock{
-		overflow: hidden;
+/* 		overflow: hidden; */
 	}
 	.header__burger {
 		margin: 0px 0px 0px 20px;
